@@ -23,7 +23,7 @@ Avarohanam:   S N2 D2 N2 P M1 G2 R2 S
 
 Arohanam Avarohanam
 
-../../raga-kapi-arohanam_avarohanam.mp3?autoplay=1&loop=1&controls=0
+../raga-kapi-arohanam_avarohanam.mp3?autoplay=1&loop=1&controls=0
 
 Signature
 
