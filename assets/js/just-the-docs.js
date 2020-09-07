@@ -464,6 +464,8 @@ jtd.onReady(function(){
   {%- if site.search_enabled != false %}
   initSearch();
   {%- endif %}
+  video_embed();
+  mp3_embed();
 });
 
 })(window.jtd = window.jtd || {});
