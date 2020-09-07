@@ -106,5 +106,12 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+name: "Swara Saadana"
+short_name: "Swara Saadana"
+url: "https://deepakdj7.github.io/swara-saadana"
+language: "en"
+lang_direction: "ltr"
+color: "#7253ed"
   
 theme: just-the-docs
