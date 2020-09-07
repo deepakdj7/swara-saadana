@@ -8,8 +8,6 @@ parent: Raagas
 
 Janyam of 29th melakarta Shankarabaranam.
 
----
-
 Aarabhi is a ragam where RIshabam is the jeeva swara. Predominently convies veera rasa and sometimes raudra rasa.
 
 ---

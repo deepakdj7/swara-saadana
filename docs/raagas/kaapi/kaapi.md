@@ -1,16 +1,14 @@
 ---
 layout: default
-title: Kapi
+title: Kaapi
 parent: Raagas
 ---
 
-## Kapi Raaga
+## Kaapi Raaga
 
 Janyam of the 22nd melakarta Karaharapriya.
 
----
-
-Kapi is a popular raaga in Carnatic music. Typically performed at slow and medium speeds, it is capable of inducing moods of devotion, pathos and sadness in the listeners. 
+Kaapi is a popular raaga in Carnatic music. Typically performed at slow and medium speeds, it is capable of inducing moods of devotion, pathos and sadness in the listeners. 
 The equivalent raaga in Hindustani is Pilu.
 
 ---
