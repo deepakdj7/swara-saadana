@@ -6,7 +6,7 @@ parent: Raagas
 
 ## Kapi Raaga
 
-Janyam of the 22nd mela Karaharapriya.
+Janyam of the 22nd melakarta Karaharapriya.
 
 ---
 
@@ -15,9 +15,9 @@ The equivalent raaga in Hindustani is Pilu.
 
 ---
 
-**Arohanam:     S R2 M1 P N3 S**
+**Arohanam:     S  R2  M1  P  N3  S**
 
-**Avarohanam:   S N2 D2 N2 P M1 G2 R2 S**
+**Avarohanam:   S  N2  D2  N2  P  M1  G2  R2  S**
 
 ---
 
@@ -31,8 +31,17 @@ The equivalent raaga in Hindustani is Pilu.
 
 **Alapana**
 
-../raga-kapi-aplapana.mp3
+../raga-kapi-alapana.mp3
 
 ---
 
 ## Examples
+
+- Jagadhodharana
+- Ennatavam seidanai
+
+---
+
+## Related
+
+
