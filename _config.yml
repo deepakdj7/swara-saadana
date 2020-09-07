@@ -71,7 +71,7 @@ nav_sort: case_insensitive # default, equivalent to nil
 
 # Back to top link
 back_to_top: false
-back_to_top_text: "Back to top"
+back_to_top_text: "Back to top "
 
 footer_content: "Copyright &copy; DJ.</a>"
 
