@@ -19,7 +19,7 @@ Swara means ‘to sound’. It is a musical note, there are 7 swaras called as t
 
 When sung in perfect pitch and frequency, the have a transformatory effect on the singer, listener and the eco-system as well.
 
-The first swara **Sa** - Sadjam means, ‘sad’ - six and ‘jam - giving birth to. So, Sadjam means the one that gives birth to the next 6 swaras.It is said so because the tonic note **Sa** is not fixed, it depends on the convenience of the performer. Meaning, if the performer is singing at **G**, **Sa** becomes **G** and the **Ri, Ga, Ma…** adjusts and follows according to that **Sa**. Similarly, if the performer is singing at **F#**, **Sa** becomes **F#** and the **Ri, Ga, Ma…** adjusts and follows according to that **Sa**. 
+The first swara **Sa** - Sadjam means, ‘sad’ - six and ‘jam' - giving birth to. So, Sadjam means the one that gives birth to the next 6 swaras. It is said so because the tonic note **Sa** is not fixed, it depends on the convenience of the performer. Meaning, if the performer is singing at **G**, **Sa** becomes **G** and the **Ri, Ga, Ma…** adjusts and follows according to that **Sa**. Similarly, if the performer is singing at **F#**, **Sa** becomes **F#** and the **Ri, Ga, Ma…** adjusts and follows according to that **Sa**. 
 
 The Saptha swaras have been said to be derived from the sounds of birds and animals. They are also associated with the seven chakras of the human body and also with the seven colors.
 
