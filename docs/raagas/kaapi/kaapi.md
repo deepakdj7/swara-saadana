@@ -15,9 +15,9 @@ The equivalent raaga in Hindustani is Pilu.
 
 ---
 
-**Arohanam:     S  R2  M1  P  N3  S**
+**Arohanam:     S  R₂  M₁  P  N₃  Ṡ**
 
-**Avarohanam:   S  N2  D2  N2  P  M1  G2  R2  S**
+**Avarohanam:   Ṡ  N₂  D₂  N₂  P  M₁  G₂  R₂  S**
 
 ---
 

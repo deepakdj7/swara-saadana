@@ -14,9 +14,9 @@ Aarabhi is a ragam where RIshabam is the jeeva swara. Predominently convies veer
 
 ---
 
-**Arohanam:     S  R2  M1  P  D2  S**
+**Arohanam:     S  R₂  M₁  P  D₂  Ṡ**
 
-**Avarohanam:   S  N3  D2  P  M1  G3  R2  S**
+**Avarohanam:   Ṡ  N₃  D₂  P  M₁  G₃  R₂  S**
 
 ---
 
