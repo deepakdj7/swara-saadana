@@ -38,7 +38,7 @@ Mayamalavagowla is the 3rd raga. This auspicious raga evokes shaanta (peace) ras
 
 ## Examples
 
-- Ongi Ulagalanda (Andal's poem)
+- Chandiran Oliyil - Jayashree Aravind
 
 ---
 
