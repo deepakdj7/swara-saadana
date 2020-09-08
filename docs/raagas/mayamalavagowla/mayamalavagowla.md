@@ -22,11 +22,11 @@ Mayamalavagowla is the 3rd raga. This auspicious raga evokes shaanta (peace) ras
 
 **Arohanam Avarohanam**
 
-../raga-mayamalavagowlai.mp3
+../raga-mayamalavagowlai-arohanam_avarohanam.mp3
 
 **Signature**
 
-../raga-mayamalavagowlai.mp3
+../raga-mayamalavagowlai-signature.mp3
 
 **Alapana**
 
