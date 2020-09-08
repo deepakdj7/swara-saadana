@@ -108,10 +108,3 @@ compress_html:
   profile: false
   
 theme: just-the-docs
-
-name: "Swara Saadana"
-short_name: "Swara Saadana"
-url: "/"
-language: "en"
-lang_direction: "ltr"
-color: "#abc123"
