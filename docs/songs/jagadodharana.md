@@ -7,30 +7,48 @@ parent: Songs
 ## Jagadodharana
 
 Raga: Kaapi
+
 Composer: Purandaradasaru
 
 ## Lyrics
 
 JagadOddhAraNa ADisidaLe yashOde
+
 (Jagadodhaarana)
 
+
 jagadOddhAraNa maganendu tiLiyuta
+
 suguNAnta ranganA AdisidaLe yashOde
+
 (Jagadodhaarana)
 
 nigamakE silukada agaNita mahimana
+
 magugaLe mANikyana ADisidaLe yashOde
+
 (Jagadodhaarana)
+
 
 aNOraNIyana mahatO mahImana
+
 apramEyana na ADisidaLe yashOde
+
 (Jagadodhaarana)
+
 
 parama puruSana paravAsudEvana
+
 purandara viThalana ADisidaLe yashOde
+
 (Jagadodhaarana)
 
+
 ## References
+
+[Link to another page](another-page)
+
+[K V Narayanaswamy](https://open.spotify.com/track/0V2TU5Yknapppxkjk5LAp5?si=lslEILdnSnOth9k_lY8SMw)
 
 K V Narayanaswamy
 https://open.spotify.com/track/0V2TU5Yknapppxkjk5LAp5?si=lslEILdnSnOth9k_lY8SMw
