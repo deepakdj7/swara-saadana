@@ -7,5 +7,9 @@ $body-font-family: PT Sans;
 $mono-font-family: PT Sans;
 $link-color: $green-000;
 $btn-primary-color: $green-200;
-$sidebar-color: rgba($feedback-color, 0.4);
+$sidebar-color: rgb($feedback-color / 10%);
 $feedback-color: $green-000;
+
+hr {
+    margin: $sp-4 0;
+  }
