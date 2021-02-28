@@ -8,7 +8,7 @@ $mono-font-family: PT Sans;
 $link-color: #5a2338;
 $btn-primary-color: #5a2338;
 $sidebar-color: #5a2338;
-$feedback-color: #5a2338;
+$feedback-color: #a77872;
 
 $nav-width: 100px;
 $nav-width-md: 80px;
@@ -23,4 +23,27 @@ $content-width: 800px;
   @include mq(lg) {
     width: 100% !important;
   }
+}
+
+.site-title {
+    color: #fff;
+}
+
+.nav-list {
+    .nav-list-item {
+        .nav-list-link {
+            color: #fff;
+        }
+        .nav-list-expander {
+            color: #fff;
+        }
+
+        .nav-list {
+            .nav-list-item {
+                .nav-list-link {
+                    color: #848484;
+                }
+            }
+        }
+    }
 }
