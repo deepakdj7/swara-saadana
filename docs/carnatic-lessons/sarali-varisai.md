@@ -9,7 +9,7 @@ nav_order: 1
 
 ---
 
-## 
+## ##
 **1.**
 
 <pre>s    r    g    m    |    p    d    |    n    S    ||
@@ -17,9 +17,9 @@ nav_order: 1
 
 S    n    d    p    |    m    g    |    r    s    ||</pre>
 
-## 
+## ##
 ---
-## 
+## ##
 
 **2.**
 
