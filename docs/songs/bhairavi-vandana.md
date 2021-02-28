@@ -13,18 +13,35 @@ parent: Songs
 ---
 
 **Shiva duti svarupena hata daitya mahabale**
+
 **Ghora rupe maha rave Bhairavi namostute**
+
+_  _
+
 **Lakshmi lajje maha vidye shraddhe pushti svadhe dhruve**
+
 **Maha ratri maha vidye Bhairavi namostute**
 
+_  _
+
 **Medhe vidya vare bhuti babhravi maha kali**
+
 **Niyate tvam prasi deshe Bhairavi namostute**
 
+_  _
+
 **Sarva svarupe sarva shakti samanvite**
+
 **Bhaye bhya strahi no Bhairavi namostute**
 
+_  _
+
 **Etat e mukham saumyam nayana traya bhushitam**
+
 **Patu nah bhiti bhyah Bhairavi namostute**
+
+_  _
+
 
 ## References
 ---
