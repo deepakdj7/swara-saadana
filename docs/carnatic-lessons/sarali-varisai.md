@@ -7,213 +7,204 @@ nav_order: 1
 
 ## Sarali Varisai
 
-listen 
-{: .custom-class }
+1.
 
-<pre>
-Text in a pre element
-is displayed in a fixed-width
-font, and it preserves
-both      spaces and
-line breaks
-</pre>
-
-s   r   g   m   /   p   d   /   n   S   //
+<pre>s    r    g    m    |    p    d    |    n    S    ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
+     S    n    d    p    |    m    g    |    r    s    ||</pre>
 
 
 
-listen
+2.
 
-s   r - s   r - /   s   r   /   g   m   //
-
-
-s   r   g   m   /   p   d   /   n   S   //
+<pre>s    r -  s    r -  |    s    r    |    g    m    ||
 
 
-S   n - S   n - /   S   n   /   d   p   //
+     s    r    g    m    |    p    d    |    n    S    ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
+     S    n -  S    n -  |    S    n    |    d    p    ||
+
+
+     S    n    d    p    |    m    g    |    r    s    ||</pre>
 
 
 
 listen
 
-s   r   g - s   /   r   g - /   s   r   //
+s    r    g -  s    |    r    g -  |    s    r    ||
 
 
-s   r   g   m   /   p   d   /   n   S   //
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-S   n   d - s   /   n   d - /   s   n   //
+S    n    d -  s    |    n    d -  |    s    n    ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
-
-
-
-listen
-
-s   r   g   m - /   s   r   /   g   m - //
-
-
-s   r   g   m   /   p   d   /   n   s   //
-
-
-S   n   d   p - /   S   n   /   d   p - //
-
-
-S   n   d   p   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
 
 
 
 listen
 
-s   r   g   m   /   p   , - /   s   r   //
+s    r    g    m -  |    s    r    |    g    m -  ||
 
 
-s   r   g   m   /   p   d   /   n   S   //
+s    r    g    m    |    p    d    |    n    s    ||
 
 
-S   n   d   p   /   m   , - /   S   n   //
+S    n    d    p -  |    S    n    |    d    p -  ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
-
-
-
-listen
-
-s   r   g   m   /   p   d - /   s   r   //
-
-
-s   r   g   m   /   p   d   /   n   S   //
-
-
-S   n   d   p   /   m   g - /   S   n   //
-
-
-S   n   d   p   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
 
 
 
 listen
 
-s   r   g   m   /   p   d   /   n   ,   //
+s    r    g    m    |    p    , -  |    s    r    ||
 
 
-s   r   g   m   /   p   d   /   n   S   //
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-S   n   d   p   /   m   g   /   r   ,   //
+S    n    d    p    |    m    , -  |    S    n    ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
-
-
-
-listen
-
-s   r   g   m   /   p   m   /   g   r   //
-
-
-s   r   g   m   /   p   d   /   n   S   //
-
-
-S   n   d   p   /   m   p   /   d   n   //
-
-
-S   n   d   p   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
 
 
 
 listen
 
-s   r   g   m   /   p   m   /   d   p   //
+s    r    g    m    |    p    d -  |    s    r    ||
 
 
-s   r   g   m   /   p   d   /   n   S   //
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-S   n   d   p   /   m   p   /   g   m   //
+S    n    d    p    |    m    g -  |    S    n    ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
-
-
-
-listen
-
-s   r   g   m   /   p   ,   /   g   m   //
-
-
-p   ,   ,   ,   /   p   ,   /   ,   ,   //
-
-
-g   m   p   d   /   n   d   /   p   m   //
-
-
-g   m   p - g   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
 
 
 
 listen
 
-S   ,   n   d   /   n   ,   /   d   p   //
+s    r    g    m    |    p    d    |    n    ,    ||
 
 
-d   ,   p   m   /   p   ,   /   p   ,   //
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-g   m   p   d   /   n   d   /   p   m   //
+S    n    d    p    |    m    g    |    r    ,    ||
 
 
-g   m   p - g   /   m   g   /   r   s   //
-
-
-
-listen
-
-S   S   n   d   /   n   n   /   d   p   //
-
-
-d   d   p   m   /   p   ,   /   p   ,   //
-
-
-g   m   p   d   /   n   d   /   p   m   //
-
-
-g   m   p - g   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
 
 
 
 listen
 
-s   r   g   r   /   g   , - /   g   m   //
+s    r    g    m    |    p    m    |    g    r    ||
 
 
-p   m   p   , - /   d   p   /   d   ,   //
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-m   p   d   p   /   d   n   /   d   p   //
+S    n    d    p    |    m    p    |    d    n    ||
 
 
-m   p   d   p   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
 
 
 
 listen
 
-s   r   g   m   /   p   ,   /   p   ,   //
+s    r    g    m    |    p    m    |    d    p    ||
 
 
-d   d   p   ,   /   m   m   /   p   ,   //
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-d   n   S   ,   /   S   n   /   d   p   //
+S    n    d    p    |    m    p    |    g    m    ||
 
 
-S   n   d   p   /   m   g   /   r   s   //
+S    n    d    p    |    m    g    |    r    s    ||
+
+
+
+listen
+
+s    r    g    m    |    p    ,    |    g    m    ||
+
+
+p    ,    ,    ,    |    p    ,    |    ,    ,    ||
+
+
+g    m    p    d    |    n    d    |    p    m    ||
+
+
+g    m    p -  g    |    m    g    |    r    s    ||
+
+
+
+listen
+
+S    ,    n    d    |    n    ,    |    d    p    ||
+
+
+d    ,    p    m    |    p    ,    |    p    ,    ||
+
+
+g    m    p    d    |    n    d    |    p    m    ||
+
+
+g    m    p -  g    |    m    g    |    r    s    ||
+
+
+
+listen
+
+S    S    n    d    |    n    n    |    d    p    ||
+
+
+d    d    p    m    |    p    ,    |    p    ,    ||
+
+
+g    m    p    d    |    n    d    |    p    m    ||
+
+
+g    m    p -  g    |    m    g    |    r    s    ||
+
+
+
+listen
+
+s    r    g    r    |    g    , -  |    g    m    ||
+
+
+p    m    p    , -  |    d    p    |    d    ,    ||
+
+
+m    p    d    p    |    d    n    |    d    p    ||
+
+
+m    p    d    p    |    m    g    |    r    s    ||
+
+
+
+listen
+
+s    r    g    m    |    p    ,    |    p    ,    ||
+
+
+d    d    p    ,    |    m    m    |    p    ,    ||
+
+
+d    n    S    ,    |    S    n    |    d    p    ||
+
+
+S    n    d    p    |    m    g    |    r    s    ||
