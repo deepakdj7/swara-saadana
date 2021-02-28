@@ -10,6 +10,14 @@ nav_order: 1
 listen 
 {: .custom-class }
 
+<pre>
+Text in a pre element
+is displayed in a fixed-width
+font, and it preserves
+both      spaces and
+line breaks
+</pre>
+
 s   r   g   m   /   p   d   /   n   S   //
 
 
