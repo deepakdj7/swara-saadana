@@ -9,20 +9,23 @@ nav_order: 1
 
 ---
 
-### **1.**
+##### 1.
 
 <pre>
+
 s    r    g    m    |    p    d    |    n    S    ||
 
 
 S    n    d    p    |    m    g    |    r    s    ||
+
 </pre>
 
 ---
 
-### **2.**
+##### 2.
 
 <pre>
+
 s    r -  s    r -  |    s    r    |    g    m    ||
 
 
@@ -33,11 +36,10 @@ S    n -  S    n -  |    S    n    |    d    p    ||
 
 
 S    n    d    p    |    m    g    |    r    s    ||
+
 </pre>
 
-
 ---
-
 
 **3.**
 
