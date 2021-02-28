@@ -11,16 +11,19 @@ nav_order: 1
 
 ### **1.**
 
-<pre>s    r    g    m    |    p    d    |    n    S    ||
+<pre>
+s    r    g    m    |    p    d    |    n    S    ||
 
 
-S    n    d    p    |    m    g    |    r    s    ||</pre>
+S    n    d    p    |    m    g    |    r    s    ||
+</pre>
 
 ---
 
 ### **2.**
 
-<pre>s    r -  s    r -  |    s    r    |    g    m    ||
+<pre>
+s    r -  s    r -  |    s    r    |    g    m    ||
 
 
 s    r    g    m    |    p    d    |    n    S    ||
@@ -29,7 +32,8 @@ s    r    g    m    |    p    d    |    n    S    ||
 S    n -  S    n -  |    S    n    |    d    p    ||
 
 
-S    n    d    p    |    m    g    |    r    s    ||</pre>
+S    n    d    p    |    m    g    |    r    s    ||
+</pre>
 
 
 ---
