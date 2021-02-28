@@ -15,12 +15,46 @@ The famous Bilvashtakam extols the virtues of the bilva leaf and Shiva’s love 
 ## Lyrics
 ---
 
-**Tridalam triguNaakaaram trinetram cha triyaayudham**
+<p>
+    <strong>
+        Tridalam triguNaakaaram trinetram cha triyaayudham
+        <br>
+        trijanma paapasamhaaram eka Bilvam shivaarpaNam
+    </strong>
+</p>
 
-**trijanma paapasamhaaram eka Bilvam shivaarpaNam**
+<p>
+    <em>
+        I offer the bilva patra to Shiva. This leaf embodies the three qualities of sattva, rajas and tamas. This leaf is like the three eyes, and the sun, moon and fire. It is like three weapons. It is the destroyer of sins committed in three earlier births. I perform pooja for Shiva with the bilva patra.
+    </em>
+</p>
 
-_I offer the bilva patra to Shiva. This leaf embodies the three qualities of sattva, rajas and tamas. This leaf is like the three eyes, and the sun, moon and fire. It is like three weapons. It is the destroyer of sins committed in three earlier births. I perform pooja for Shiva with the bilva patra._
+<p>
+    <strong>
+        Tridalam triguNaakaaram trinetram cha triyaayudham
+        <br>
+        trijanma paapasamhaaram eka Bilvam shivaarpaNam
+    </strong>
+</p>
 
+<p>
+    <em>
+        I offer the bilva patra to Shiva. This leaf embodies the three qualities of sattva, rajas and tamas. This leaf is like the three eyes, and the sun, moon and fire. It is like three weapons. It is the destroyer of sins committed in three earlier births. I perform pooja for Shiva with the bilva patra.
+    </em>
+</p>
+<p>
+    <strong>
+        Tridalam triguNaakaaram trinetram cha triyaayudham
+        <br>
+        trijanma paapasamhaaram eka Bilvam shivaarpaNam
+    </strong>
+</p>
+
+<p>
+    <em>
+        I offer the bilva patra to Shiva. This leaf embodies the three qualities of sattva, rajas and tamas. This leaf is like the three eyes, and the sun, moon and fire. It is like three weapons. It is the destroyer of sins committed in three earlier births. I perform pooja for Shiva with the bilva patra.
+    </em>
+</p>
 
 **Akhanda bilvapatreNa poojite nandikeshware**
 
