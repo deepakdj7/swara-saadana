@@ -7,12 +7,12 @@ nav_order: 1
 
 ## Sarali Varisai
 
-listen
+1. listen
 
-s   r   g   m   **|**   p   d   **|**   n   S   **||**
+- s   r   g   m   |   p   d   |   n   S   ||
 
 
-S   n   d   p   |   m   g   |   r   s   ||
+- S   n   d   p   |   m   g   |   r   s   ||
 
 
 
