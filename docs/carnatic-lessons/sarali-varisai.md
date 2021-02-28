@@ -2,7 +2,7 @@
 layout: default
 title: Sarali Varisai
 parent: Carnatic Lessons
-nav_order: 1
+nav_order: 2
 ---
 
 ## Sarali Varisai
@@ -53,7 +53,7 @@ s   r   g - s   |   r   g - |   s   r   ||
 s   r   g   m   |   p   d   |   n   S   ||
 
 
-S   n   d - s   |   n   d - |   s   n   ||
+S   n   d - S   |   n   d - |   S   n   ||
 
 
 S   n   d   p   |   m   g   |   r   s   ||
