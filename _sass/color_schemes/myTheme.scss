@@ -19,4 +19,8 @@ $content-width: 800px;
 .site-header,
 .site-footer {
   width: 100%;
+
+  @include mq(lg) {
+    width: 100% !important;
+  }
 }
