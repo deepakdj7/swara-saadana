@@ -14,6 +14,9 @@ $nav-width: 100px;
 $nav-width-md: 80px;
 
 $content-width: 800px;
+$body-background-color: #fffaf6 !default;
+$search-background-color: #fffaf6 !default;
+$table-background-color: #fffaf6 !default;
 
 .site-nav,
 .site-header,
@@ -32,7 +35,7 @@ $content-width: 800px;
 .nav-list {
     .nav-list-item {
         .nav-list-link {
-            color: #fff;
+            color: #fff !important;
         }
 
         .nav-list-expander {
@@ -42,13 +45,19 @@ $content-width: 800px;
         .nav-list {
             .nav-list-item {
                 .nav-list-link {
-                    color: #968787;
+                    color: #968787 !important;
 
                     .active {
-                        color: #fff;
+                        color: #fff !important;
                     }
                 }
             }
         }
     }
 }
+
+.main {
+    @include mq(md) {
+      max-width: 100% !important;
+    }
+  }
