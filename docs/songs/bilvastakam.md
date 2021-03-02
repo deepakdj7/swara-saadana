@@ -15,11 +15,6 @@ The famous Bilvashtakam extols the virtues of the bilva leaf and Shiva’s love 
 ## Lyrics
 ---
 
-https://www.youtube.com/watch?v=6rJExE8HGVg&ab_channel=SoundsofIsha
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6rJExE8HGVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p>
     <strong>
         Tridalam triguNaakaaram trinetram cha triyaayudham
@@ -151,3 +146,4 @@ __
 ## References
 ---
 [Sounds of Isha - Jayashree Aravind](https://open.spotify.com/track/5d1yfbwgy1JeGNPpY5xxrN?si=RgBXGwAPQ9u6LUpWxQXuaA)
+<iframe width="50%" src="https://www.youtube.com/embed/6rJExE8HGVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
