@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Before we begin
+title: Introduction
 parent: Carnatic Lessons
 nav_order: 1
 ---
 
-## Before we begin
+## Introduction
 
 ---
 
 ## Notations used:
 
+<pre>
 In these lessons, a few symbols are used. Check the symbols page for more information, but a summary is below:
 
 s = sa, r = ri, g = ga, m = ma, p = pa, d = da, n = ni
@@ -30,3 +31,4 @@ vertical bar (|) = taaLam division of drutam or anudrutam or laghu
 double vertical bar (||) = end of one taaLa cycle
 
 dash (-) = separation of phrases. You must sing so that each phrases is continuous and the notes are only split where the dashes occur.
+</pre>
