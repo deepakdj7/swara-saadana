@@ -20,8 +20,6 @@ parent: Songs
     </strong>
 </p>
 
-<br>
-
 <p>
     <strong>
         Lakshmi lajje maha vidye shraddhe pushti svadhe dhruve
@@ -30,8 +28,6 @@ parent: Songs
     </strong>
 </p>
 
-<br>
-
 <p>
     <strong>
         Medhe vidya vare bhuti babhravi maha kali
@@ -39,8 +35,6 @@ parent: Songs
         Niyate tvam prasi deshe Bhairavi namostute
     </strong>
 </p>
-
-<br>
 
 <p>
     <strong>
