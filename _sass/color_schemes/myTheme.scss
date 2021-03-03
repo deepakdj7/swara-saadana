@@ -50,13 +50,10 @@ $table-background-color: #fffaf6 !default;
         .nav-list {
             .nav-list-item {
                 .nav-list-link {
-                    color: #968787;
-
-                    .active {
-                        a {
-                            color: #fff !important;
-                        }
-                    }
+                    color: #968787 !important;
+                }
+                .active {
+                    color: #fff !important;
                 }
             }
         }

@@ -14,13 +14,15 @@ nav_order: 2
 
 ##### **1.**
 
+<pre>
+
+s   r   g   m   |   p   d   |   n   S   ||
 
 
-<p class="varisai">s   r   g   m   |   p   d   |   n   S   ||</p>
-<br>
-<p class="varisai">S   n   d   p   |   m   g   |   r   s   ||</p>
+S   n   d   p   |   m   g   |   r   s   ||
 
 
+</pre>
 
 
 ##### **2.**
