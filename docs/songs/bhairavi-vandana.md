@@ -17,43 +17,23 @@ parent: Songs
         Shiva duti svarupena hata daitya mahabale
         <br>
         Ghora rupe maha rave Bhairavi namostute
-    </strong>
-</p>
-
-<p></p>
-
-<p>
-    <strong>
+        <br>
+        <br>
         Lakshmi lajje maha vidye shraddhe pushti svadhe dhruve
         <br>
         Maha ratri maha vidye Bhairavi namostute
-    </strong>
-</p>
-
-<p>
- 
-</p>
-
-<p>
-    <strong>
+        <br>
+        <br>
         Medhe vidya vare bhuti babhravi maha kali
         <br>
         Niyate tvam prasi deshe Bhairavi namostute
-    </strong>
-</p>
-
-<p>
-    <strong>
+        <br>
+        <br>
         Sarva svarupe sarva shakti samanvite
         <br>
         Bhaye bhya strahi no Bhairavi namostute
-    </strong>
-</p>
-
-<br>
-
-<p>
-    <strong>
+        <br>
+        <br>
         Etat e mukham saumyam nayana traya bhushitam
         <br>
         Patu nah bhiti bhyah Bhairavi namostute
