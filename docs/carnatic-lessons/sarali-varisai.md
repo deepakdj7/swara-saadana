@@ -18,7 +18,6 @@ nav_order: 2
 
 s   r   g   m   |   p   d   |   n   S   ||
 
-
 S   n   d   p   |   m   g   |   r   s   ||
 
 
@@ -31,12 +30,9 @@ S   n   d   p   |   m   g   |   r   s   ||
 
 s   r - s   r - |   s   r   |   g   m   ||
 
-
 s   r   g   m   |   p   d   |   n   S   ||
 
-
 S   n - S   n - |   S   n   |   d   p   ||
-
 
 S   n   d   p   |   m   g   |   r   s   ||
 
@@ -49,12 +45,9 @@ S   n   d   p   |   m   g   |   r   s   ||
 
 s   r   g - s   |   r   g - |   s   r   ||
 
-
 s   r   g   m   |   p   d   |   n   S   ||
 
-
 S   n   d - S   |   n   d - |   S   n   ||
-
 
 S   n   d   p   |   m   g   |   r   s   ||
 
@@ -67,12 +60,9 @@ S   n   d   p   |   m   g   |   r   s   ||
 
 s   r   g   m - |   s   r   |   g   m - ||
 
-
 s   r   g   m   |   p   d   |   n   s   ||
 
-
 S   n   d   p - |   S   n   |   d   p - ||
-
 
 S   n   d   p   |   m   g   |   r   s   ||
 
