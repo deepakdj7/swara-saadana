@@ -20,12 +20,6 @@ parent: Songs
     </strong>
 </p>
 
-<p>
-    <em>
-        The one who has Shiva as her messenger, who conquered the mighty armies of thought, of fearful form and intense sound, Exposer of Consciousness, we bow to you.
-    </em>
-</p>
-
 <br>
 
 <p>
@@ -34,12 +28,6 @@ parent: Songs
         <br>
         Maha ratri maha vidye Bhairavi namostute
     </strong>
-</p>
-
-<p>
-    <em>
-        To True Wealth, Humility, Great Knowledge, Faith, Nourishment, Self-Sustenance, Constancy. The Great Night who removes ignorance, and the Great Meausrement of Consciousness, Exposer of Consciousness, we bow to you.
-    </em>
 </p>
 
 <br>
@@ -52,12 +40,6 @@ parent: Songs
     </strong>
 </p>
 
-<p>
-    <em>
-        The Intellect of Love, the Spirit of All-Pervading Knowledge, the Best, All Existence, Nature, Unknowable One. Fully occupied with self-restraint, Oh Supreme, be pleased. Exposer of Consciousness, we bow to you.
-    </em>
-</p>
-
 <br>
 
 <p>
@@ -68,12 +50,6 @@ parent: Songs
     </strong>
 </p>
 
-<p>
-    <em>
-        The Intrinsic Nature of All, the Supreme of All, and the Energy of All as well. You remove fear from us, Oh Goddess; Reliever of Difficulties, we bow to you.
-    </em>
-</p>
-
 <br>
 
 <p>
@@ -82,6 +58,34 @@ parent: Songs
         <br>
         Patu nah bhiti bhyah Bhairavi namostute
     </strong>
+</p>
+
+
+## Meaning
+---
+
+<p>
+    <em>
+        The one who has Shiva as her messenger, who conquered the mighty armies of thought, of fearful form and intense sound, Exposer of Consciousness, we bow to you.
+    </em>
+</p>
+
+<p>
+    <em>
+        To True Wealth, Humility, Great Knowledge, Faith, Nourishment, Self-Sustenance, Constancy. The Great Night who removes ignorance, and the Great Meausrement of Consciousness, Exposer of Consciousness, we bow to you.
+    </em>
+</p>
+
+<p>
+    <em>
+        The Intellect of Love, the Spirit of All-Pervading Knowledge, the Best, All Existence, Nature, Unknowable One. Fully occupied with self-restraint, Oh Supreme, be pleased. Exposer of Consciousness, we bow to you.
+    </em>
+</p>
+
+<p>
+    <em>
+        The Intrinsic Nature of All, the Supreme of All, and the Energy of All as well. You remove fear from us, Oh Goddess; Reliever of Difficulties, we bow to you.
+    </em>
 </p>
 
 <p>
