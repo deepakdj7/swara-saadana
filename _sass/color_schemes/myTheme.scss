@@ -1,10 +1,15 @@
-@font-face {
+/* @font-face {
     font-family: 'PT Sans';
     src: url(PTSans-Regular.ttf) format('truetype');
+} */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../../assets/fonts/Montserrat-Regular.ttf") format('truetype');
 }
 
-$body-font-family: PT Sans;
-$mono-font-family: PT Sans;
+$body-font-family: Montserrat;
+$mono-font-family: Montserrat;
 $link-color: #5a2338;
 $btn-primary-color: #5a2338;
 $sidebar-color: #5a2338;
