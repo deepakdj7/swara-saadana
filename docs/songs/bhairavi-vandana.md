@@ -20,6 +20,8 @@ parent: Songs
     </strong>
 </p>
 
+<p></p>
+
 <p>
     <strong>
         Lakshmi lajje maha vidye shraddhe pushti svadhe dhruve
@@ -27,6 +29,8 @@ parent: Songs
         Maha ratri maha vidye Bhairavi namostute
     </strong>
 </p>
+
+<p></p>
 
 <p>
     <strong>
