@@ -46,15 +46,29 @@ parent: Songs
 
 <p>
     <em>
-        The one who has Shiva as her messenger, who conquered the mighty armies of thought, of fearful form and intense sound, Exposer of Consciousness, we bow to you.
+        The one who has Shiva as her messenger, who conquered the mighty armies of thought,
         <br>
-        To True Wealth, Humility, Great Knowledge, Faith, Nourishment, Self-Sustenance, Constancy. The Great Night who removes ignorance, and the Great Meausrement of Consciousness, Exposer of Consciousness, we bow to you.
+        of fearful form and intense sound, Exposer of Consciousness, we bow to you.
         <br>
-        The Intellect of Love, the Spirit of All-Pervading Knowledge, the Best, All Existence, Nature, Unknowable One. Fully occupied with self-restraint, Oh Supreme, be pleased. Exposer of Consciousness, we bow to you.
         <br>
-        The Intrinsic Nature of All, the Supreme of All, and the Energy of All as well. You remove fear from us, Oh Goddess; Reliever of Difficulties, we bow to you.
+        To True Wealth, Humility, Great Knowledge, Faith, Nourishment, Self-Sustenance, Constancy.
         <br>
-        May your beautiful face, displaying three eyes, protect us from all existence. Protect us from all existence. Ever Pure One, we bow to you.
+        The Great Night who removes ignorance, and the Great Meausrement of Consciousness, Exposer of Consciousness, we bow to you.
+        <br>
+        <br>
+        The Intellect of Love, the Spirit of All-Pervading Knowledge, the Best, All Existence, Nature, Unknowable One.
+        <br>
+        Fully occupied with self-restraint, Oh Supreme, be pleased. Exposer of Consciousness, we bow to you.
+        <br>
+        <br>
+        The Intrinsic Nature of All, the Supreme of All, and the Energy of All as well.
+        <br>
+        You remove fear from us, Oh Goddess; Reliever of Difficulties, we bow to you.
+        <br>
+        <br>
+        May your beautiful face, displaying three eyes, protect us from all existence.
+        <br>
+        Protect us from all existence. Ever Pure One, we bow to you.
     </em>
 </p>
 
