@@ -66,10 +66,16 @@ $table-background-color: #fffaf6 !default;
     }
 }
 
-.icon {
-    color: #fff;
-}
-
 textarea:focus, input:focus, audio:focus, video:focus, iframe:focus, canvas:focus, progress:focus{
     outline: none;
+}
+
+.site-button {
+    .icon {
+        color: #fff;
+    }
+}
+
+.site-title:hover {
+    background-image: none;
 }
