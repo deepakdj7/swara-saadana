@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator) {
     } else {
         // Register the service worker
         navigator.serviceWorker
-            .register("{{ site.baseurl }}/serviceworker.js", {
+            .register("https://deepakdj7.github.io/swara-saadana/serviceworker.js", {
                 scope: "./"
             })
             .then(function (reg) {
