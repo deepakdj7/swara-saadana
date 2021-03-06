@@ -16,7 +16,14 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-  <link rel="manifest" href="manifest.json">
+  <link rel="manifest" href="{{ '/manifest.json' | absolute_url }}">ß
+
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.slim.js"
+  integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
+  crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
   {% if site.ga_tracking != nil %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
@@ -38,8 +45,6 @@
   <script type="text/javascript" src="{{ '/assets/js/serviceworker.js' | absolute_url }}"></script>
 
   <script type="text/javascript" src="{{ '/serviceworker.js' | absolute_url }}"></script>
-
-  <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
