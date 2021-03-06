@@ -5,7 +5,7 @@
     "short_name": "Swara Saadana",
     "icons": [
       {
-        "src": "/assets/images/android-launchericon-512-512.png",
+        "src": "assets/images/android-launchericon-512-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
