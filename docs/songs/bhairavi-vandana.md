@@ -4,7 +4,7 @@ title: Bhairavi vandana
 parent: Songs
 ---
 
-## Bharavi Vandana
+## Bhairavi Vandana
 ---
 - Raga: 
 - Composition: Sounds of Isha
@@ -77,4 +77,4 @@ parent: Songs
 ---
 [Sounds of Isha](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT?si=o7hDpwbwSByfEs7fCt4ZIw)
 
-<iframe width="512px" src="https://www.youtube-nocookie.com/embed/3jSEc7ZJ1Z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3jSEc7ZJ1Z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
