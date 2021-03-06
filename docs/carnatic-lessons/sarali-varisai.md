@@ -13,9 +13,11 @@ nav_order: 2
 </pre>
 
 ##### **1.** 
+<span>
 <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Listen
 </button>
+</span>
 <div class="collapse" id="collapseExample">
   <div class="card card-body">
     <p>../raga-arabhi-arohanam_avarohanam.mp3</p>
