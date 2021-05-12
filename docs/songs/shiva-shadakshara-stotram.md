@@ -21,30 +21,12 @@ parent: Songs
 </p>
 
 <p>
-    <em>
-        Salutations to Him Who resides In the Spiritual Heart Center as Omkara, On Whom the Yogis Constantly Meditate, Who Grants All Desires and also Liberation to His Devotees.
-        Salutations to that Shiva, Who is represented by syllable "Om", The first syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
-    </em>
-</p>
-
-<br>
-
-<p>
     <strong>
         Namanti Rssayo Devaa Namanty-Apsarasaam Gannaah
         <br>
         Naraa Namanti Deve[a-Ii]sham Nakaaraaya Namo Namah
     </strong>
 </p>
-
-<p>
-    <em>
-        Salutations to Him To Whom the Rishis bow down in Reverential Salutation, To Whom the Devas bow down in Reverential Salutation, To Whom the Group of Apsaras bow down in Reverential Salutation, To Whom the Men bow down in Reverential Salutation and Who is the Lord of the Devas.
-        Salutations to that Shiva, Who is represented by syllable "Na", The second syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
-    </em>
-</p>
-
-<br>
 
 <p>
     <strong>
@@ -55,30 +37,12 @@ parent: Songs
 </p>
 
 <p>
-    <em>
-    Salutations to Him Who is the Great God, Who is a Great Soul, Who is the Final Aim of all Meditation, Who is the Great Destroyer of Sins of His Devotees.
-    Salutations to that Shiva, Who is represented by syllable "Ma", The third syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
-    </em>
-</p>
-
-<br>
-
-<p>
     <strong>
         Shivam Shaamtam Jagan[t]-Naatham Loka-[A]nugraha-Kaarakam
         <br>
         Shivam-Eka-Padam Nityam Shikaaraaya Namo Namah
     </strong>
 </p>
-
-<p>
-    <em>
-        Salutations to Him) Who is the Most Auspicious, Who is the Abode of Peace, Who is the Lord of the World, Who Works for the Welfare of the World, Who is the One Eternal Word known as Shiva.
-        Salutations to that Shiva, Who is represented by syllable "Shi", The fourth syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
-    </em>
-</p>
-
-<br>
 
 <p>
     <strong>
@@ -89,20 +53,49 @@ parent: Songs
 </p>
 
 <p>
-    <em>
-        Salutations to Him Who has a Bull as His Vehicle, Who has the snake Vasuki as the Ornament of His Neck, Who has the Divine Mother Shakti on His Left.
-        Salutations to that Shiva, Who is represented by syllable "Va", The fifth syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
-    </em>
-</p>
-
-<br>
-
-<p>
     <strong>
         Yatra Yatra Sthito Devah Sarva-Vyaapii Mahe[a-Ii]shvarah
         <br>
         Yo Guruh Sarva-Devaanaam Yakaaraaya Namo Namah
     </strong>
+</p>
+
+## Meaning
+---
+
+<p>
+    <em>
+        Salutations to Him Who resides In the Spiritual Heart Center as Omkara, On Whom the Yogis Constantly Meditate, Who Grants All Desires and also Liberation to His Devotees.
+        Salutations to that Shiva, Who is represented by syllable "Om", The first syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
+    </em>
+</p>
+
+<p>
+    <em>
+        Salutations to Him To Whom the Rishis bow down in Reverential Salutation, To Whom the Devas bow down in Reverential Salutation, To Whom the Group of Apsaras bow down in Reverential Salutation, To Whom the Men bow down in Reverential Salutation and Who is the Lord of the Devas.
+        Salutations to that Shiva, Who is represented by syllable "Na", The second syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
+    </em>
+</p>
+
+<p>
+    <em>
+    Salutations to Him Who is the Great God, Who is a Great Soul, Who is the Final Aim of all Meditation, Who is the Great Destroyer of Sins of His Devotees.
+    Salutations to that Shiva, Who is represented by syllable "Ma", The third syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
+    </em>
+</p>
+
+<p>
+    <em>
+        Salutations to Him) Who is the Most Auspicious, Who is the Abode of Peace, Who is the Lord of the World, Who Works for the Welfare of the World, Who is the One Eternal Word known as Shiva.
+        Salutations to that Shiva, Who is represented by syllable "Shi", The fourth syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
+    </em>
+</p>
+
+<p>
+    <em>
+        Salutations to Him Who has a Bull as His Vehicle, Who has the snake Vasuki as the Ornament of His Neck, Who has the Divine Mother Shakti on His Left.
+        Salutations to that Shiva, Who is represented by syllable "Va", The fifth syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
+    </em>
 </p>
 
 <p>
@@ -111,8 +104,6 @@ parent: Songs
         Salutations to that Shiva, Who is represented by syllable "Ya", The sixth syllable of the Sadakshara mantra "Om-Na-Ma-Shi-Va-Ya".
     </em>
 </p>
-
-
 
 ## References
 ---
