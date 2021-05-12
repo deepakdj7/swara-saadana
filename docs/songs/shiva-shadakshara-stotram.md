@@ -14,49 +14,49 @@ parent: Songs
 
 <p>
     <strong>
-        Omkaaram Bindu-Samyuktam Nityam Dhyaayanti Yoginah
+        Omkaaram Bindu-Samyuktam <br>Nityam Dhyaayanti Yoginah
         <br>
-        Kaamadam Mokssadam Caiva Omkaaraaya Namo Namah
+        Kaamadam Mokssadam Caiva <br>Omkaaraaya Namo Namah
     </strong>
 </p>
 
 <p>
     <strong>
-        Namanti Rssayo Devaa Namanty-Apsarasaam Gannaah
+        Namanti Rssayo Devaa <br>Namanty-Apsarasaam Gannaah
         <br>
-        Naraa Namanti Deve[a-Ii]sham Nakaaraaya Namo Namah
+        Naraa Namanti Deve[a-Ii]sham <br>Nakaaraaya Namo Namah
     </strong>
 </p>
 
 <p>
     <strong>
-        Mahaadevam Mahaa-Aatmaanam Mahaa-Dhyaanam Paraayannam
+        Mahaadevam Mahaa-Aatmaanam <br>Mahaa-Dhyaanam Paraayannam
         <br>
-        Mahaa-Paapa-Haram Devam Makaaraaya Namo Namah
+        Mahaa-Paapa-Haram Devam <br>Makaaraaya Namo Namah
     </strong>
 </p>
 
 <p>
     <strong>
-        Shivam Shaamtam Jagan[t]-Naatham Loka-[A]nugraha-Kaarakam
+        Shivam Shaamtam Jagan[t]-Naatham <br>Loka-[A]nugraha-Kaarakam
         <br>
-        Shivam-Eka-Padam Nityam Shikaaraaya Namo Namah
+        Shivam-Eka-Padam Nityam <br>Shikaaraaya Namo Namah
     </strong>
 </p>
 
 <p>
     <strong>
-        Vaahanam Vrssabho Yasya Vaasukih Kamttha-Bhuussannam
+        Vaahanam Vrssabho Yasya <br>Vaasukih Kamttha-Bhuussannam
         <br>
-        Vaame Shakti-Dharam Devam Vakaaraaya Namo Namah
+        Vaame Shakti-Dharam Devam <br>Vakaaraaya Namo Namah
     </strong>
 </p>
 
 <p>
     <strong>
-        Yatra Yatra Sthito Devah Sarva-Vyaapii Mahe[a-Ii]shvarah
+        Yatra Yatra Sthito Devah <br>Sarva-Vyaapii Mahe[a-Ii]shvarah
         <br>
-        Yo Guruh Sarva-Devaanaam Yakaaraaya Namo Namah
+        Yo Guruh Sarva-Devaanaam <br>Yakaaraaya Namo Namah
     </strong>
 </p>
 
