@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shiva Shadakshara Stotram
+title: Shiva Shadakshara Stotram / Omkaram Bindu Samyuktham
 parent: Songs
 ---
 

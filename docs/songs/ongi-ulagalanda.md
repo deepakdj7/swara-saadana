@@ -2,6 +2,7 @@
 layout: default
 title: Oongi Ulagalandha
 parent: Songs
+nav_exclude: true
 ---
 
 ## Oongi Ulagalandha

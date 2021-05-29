@@ -4,6 +4,7 @@ title: Raagas
 nav_order: 3
 has_children: true
 permalink: docs/raagas
+nav_exclude: true
 ---
 
 # List of Raagas

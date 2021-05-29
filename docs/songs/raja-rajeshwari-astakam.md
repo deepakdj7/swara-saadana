@@ -2,6 +2,7 @@
 layout: default
 title: Raja Rajeshwari Astakam
 parent: Songs
+nav_exclude: true
 ---
 
 ## Raja Rajeshwari Astakam

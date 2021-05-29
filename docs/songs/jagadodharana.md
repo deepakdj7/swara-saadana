@@ -2,6 +2,7 @@
 layout: default
 title: Jagadodharana
 parent: Songs
+nav_exclude: true
 ---
 
 ## Jagadodharana

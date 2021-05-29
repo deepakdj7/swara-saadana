@@ -2,6 +2,7 @@
 layout: default
 title: Gauranga
 parent: Songs
+nav_exclude: true
 ---
 
 ## Gauranga
