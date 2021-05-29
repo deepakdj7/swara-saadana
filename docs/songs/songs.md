@@ -7,4 +7,5 @@ permalink: docs/songs
 ---
 
 # List of Songs
-{: .no_toc }
+1. TOC
+{:toc }
