@@ -13,18 +13,6 @@ nav_order: 2
 </pre>
 
 ##### **1.** 
-<span>
-<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Listen
-</button>
-</span>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    <p>../raga-arabhi-arohanam_avarohanam.mp3</p>
-    <br>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3jSEc7ZJ1Z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
 
 <pre>
 
