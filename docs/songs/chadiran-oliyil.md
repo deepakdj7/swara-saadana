@@ -2,7 +2,7 @@
 layout: default
 title: Chandiran Oliyil Avalai Kanden
 parent: Songs
-published: false
+nav_exclude: true
 ---
 
 ## Chandiran Oliyil Avalai Kanden
