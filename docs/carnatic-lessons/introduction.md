@@ -32,3 +32,5 @@ double vertical bar (||) = end of one taaLa cycle
 
 dash (-) = separation of phrases. You must sing so that each phrases is continuous and the notes are only split where the dashes occur.
 </pre>
+
+{: .no_toc }
