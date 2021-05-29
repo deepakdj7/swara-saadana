@@ -107,6 +107,4 @@ parent: Songs
 
 ## References
 ---
-[Sounds of Isha - Jayashree Aravind](https://open.spotify.com/track/1JezfL2a4MQqCsO5zK79W2?si=v8UuPmkuSsiErFobhRcsVA)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Paab4IlspnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="340" src="https://www.youtube-nocookie.com/embed/Paab4IlspnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
