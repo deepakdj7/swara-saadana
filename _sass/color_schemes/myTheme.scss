@@ -33,27 +33,31 @@ $table-background-color: #fffaf6 !default;
   }
 }
 
+.site-header {
+    border-bottom: 1px solid #a10b0a;
+}
+
 .site-title {
-    color: #fff !important;
+    color: #000 !important;
 }
 
 .nav-list {
     .nav-list-item {
         .nav-list-link {
-            color: #fff !important;
+            color: #000 !important;
         }
 
         .nav-list-expander {
-            color: #fff !important;
+            color: #000 !important;
         }
 
         .nav-list {
             .nav-list-item {
                 .nav-list-link {
-                    color: #968787 !important;
+                    color: rgba(0, 0, 0, 0.6) !important;
                 }
                 .active {
-                    color: #fff !important;
+                    color: #000 !important;
                 }
             }
         }
@@ -72,7 +76,7 @@ textarea:focus, input:focus, audio:focus, video:focus, iframe:focus, canvas:focu
 
 .site-button {
     .icon {
-        color: #fff;
+        color: #000;
     }
 }
 
