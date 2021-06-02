@@ -20,72 +20,96 @@ Whoever reads, studies and recites this Ashtaka on Guru and remains devoted and 
 <p>
     <strong>
         śarīram surūpam tathā vā kalatraḿ
-yaśaścāru citram dhanam merutulyam
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        yaśaścāru citram dhanam merutulyam
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         kalatraḿ dhanaḿ putrapoutrādi sarvaḿ
-gṛhaḿ bāndhavāḥ sarvametaddhi jātam
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        gṛhaḿ bāndhavāḥ sarvametaddhi jātam
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         ṣaḍańgādivedo mukhe śastravidyā
-kavitcādi gadyaḿ supadyaḿ karoti
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        kavitcādi gadyaḿ supadyaḿ karoti
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         videśeṣu mānyaḥ svadeśeṣu dhanyaḥ
-sadācāravṛtteṣu matto na cānyaḥ
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        sadācāravṛtteṣu matto na cānyaḥ
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         kṣamāmaṇḍale bhūpabhūpālavṛndaiḥ
-sadā sevitaḿ yasya pādāravindam
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kim tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        sadā sevitaḿ yasya pādāravindam
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kim tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         yaśo me gataḿ dikṣu dānaptratāpāj-
-jagadvastu sarvaḿ kare yatprasādāt
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        jagadvastu sarvaḿ kare yatprasādāt
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         na bhoge na yoge na vā vājirājau
-na kāntāmukhe naiva vitteṣu cittam
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        na kāntāmukhe naiva vitteṣu cittam
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
 <p>
     <strong>
         araṇye na vā svasya gehe na kārye
-na dehe mano vartate me tvanarghye
-gurorańghripadme ḿanaścenna lagnaḿ
-tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+        <br>
+        na dehe mano vartate me tvanarghye
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
     </strong>
 </p>
 
