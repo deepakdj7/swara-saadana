@@ -2,6 +2,7 @@
 layout: default
 title: Guru Ashtakam
 parent: Songs
+tags: Adi Sankaracharya, test, another test
 ---
 
 ## Guru Ashtakam
@@ -9,6 +10,8 @@ parent: Songs
 ---
 - Raga: 
 - Composer: Adi Sankaracharya
+- Thalam: Tishra Chapu
+- Shruthi: G#
 
 Guru Ashtakam is a devotional song which beautifully exemplifies the necessity of a Guru, beseeching the spiritual seeker to bow down to the Lotus Feet of the Guru.
 
@@ -45,7 +48,7 @@ Whoever reads, studies and recites this Ashtaka on Guru and remains devoted and 
     <strong>
         ṣaḍańgādivedo mukhe śastravidyā
         <br>
-        kavitcādi gadyaḿ supadyaḿ karoti
+        kavitvādi gadyaḿ supadyaḿ karoti
         <br>
         gurorańghripadme ḿanaścenna lagnaḿ
         <br>
@@ -113,6 +116,18 @@ Whoever reads, studies and recites this Ashtaka on Guru and remains devoted and 
     </strong>
 </p>
 
+<p>
+    <strong>
+        anarghāni rathnāni mukthāni samyak
+        <br>
+        samālingitha kāmini yāmineeshu
+        <br>
+        gurorańghripadme ḿanaścenna lagnaḿ
+        <br>
+        tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ tataḥ kiḿ
+    </strong>
+</p>
+
 ## Meaning
 ---
 
@@ -161,6 +176,12 @@ Whoever reads, studies and recites this Ashtaka on Guru and remains devoted and 
 <p>
     <em>
         The mind may have lost its charm to live in forests, and likewise in the house; may have lost all desire to achieve whatever; even the concern for the body’s welfare may have been outlived; the most invaluable treasure of the world may not hold any allurement. Even then, of what avail are all these if the supreme devotion to the Guru is not held by the aspirant? Determine, of what use? of what use?
+    </em>
+</p>
+
+<p>
+    <em>
+        Even if you have priceless jewel collection, Even if you have an embracing passionate wife, If your mind does not bow at the Guru’s feet, What is the use? What is the use? And What is the use?
     </em>
 </p>
 
