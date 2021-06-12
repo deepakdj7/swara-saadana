@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Alankaaras
+title: Alankaarams
 parent: Carnatic Lessons
 nav_order: 5
 ---
 
-## Alankaaras
+## Alankaarams
 
 ---
 <pre>
